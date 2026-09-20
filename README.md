@@ -26,30 +26,43 @@ An enchanting, highly interactive, and responsive romantic proposal experience c
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 How to Run & Use This Project
 
-1. Clone or download this repository:
+### Option A: Direct Download (Non-Technical Users)
+1. Click the green **`<> Code`** button at the top of this repository.
+2. Select **"Download ZIP"**.
+3. Extract the downloaded folder on your computer.
+4. Double-click **`index.html`** to open and experience the website directly in any web browser (Chrome, Edge, Safari, Firefox).
+
+### Option B: Clone via Git (Developers)
+1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/proposal-website-demo.git
+   git clone https://github.com/rashmikumari84/proposal-website-demo.git
    ```
-2. Open the project folder:
+2. Navigate to the project directory:
    ```bash
    cd proposal-website-demo
    ```
-3. Open `index.html` in any modern web browser (or use Live Server in VS Code).
+3. Open `index.html` in your browser or with VS Code **Live Server**.
 
 ---
 
 ## 🔑 Demo Passcode
-- **Passcode:** Check the hint on the lock screen or explore `script.js` to customize the secret key.
+- **Passcode:** Check the hint on the lock screen (default hint: *a promise of forever 💍* — default answer: `forever`).
+- You can easily change this passcode in `script.js`.
 
 ---
 
-## 💌 Customization
-Feel free to replace:
-- Images (`us.jpg`, `us1.jpg`, `us2.jpg`, `us3.jpg`) with your own memories.
-- Audio file (`terabanjaunga.mp3`) with your favorite soundtrack.
-- Text, dates, and message copy in `index.html` to personalize for any couple!
+## 💌 How to Customize for Your Loved One / Clients
+
+You can easily personalize this website in just 3 steps:
+
+1. **Change Photos:**
+   - Replace `us.jpg`, `us1.jpg`, `us2.jpg`, `us3.jpg` with your own photos (keep the file names same or update them in `index.html`).
+2. **Change Music:**
+   - Replace `terabanjaunga.mp3` with your favorite romantic song.
+3. **Change Names & Messages:**
+   - Open `index.html` in Notepad or VS Code and update the names, dates, and love notes.
 
 ---
 
