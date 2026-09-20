@@ -37,11 +37,11 @@ An enchanting, highly interactive, and responsive romantic proposal experience c
 ### Option B: Clone via Git (Developers)
 1. Clone this repository:
    ```bash
-   git clone https://github.com/rashmikumari84/proposal-website-demo.git
+   git clone https://github.com/rashmikumari84/Everus-proposal-demo.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd proposal-website-demo
+   cd Everus-proposal-demo
    ```
 3. Open `index.html` in your browser or with VS Code **Live Server**.
 
