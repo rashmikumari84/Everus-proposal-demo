@@ -28,13 +28,13 @@ An enchanting, highly interactive, and responsive romantic proposal experience c
 
 ## 🚀 How to Run & Use This Project
 
-### Option A: Direct Download (Non-Technical Users)
+### Option A: Direct Download 
 1. Click the green **`<> Code`** button at the top of this repository.
 2. Select **"Download ZIP"**.
 3. Extract the downloaded folder on your computer.
 4. Double-click **`index.html`** to open and experience the website directly in any web browser (Chrome, Edge, Safari, Firefox).
 
-### Option B: Clone via Git (Developers)
+### Option B: Clone via Git
 1. Clone this repository:
    ```bash
    git clone https://github.com/rashmikumari84/Everus-proposal-demo.git
