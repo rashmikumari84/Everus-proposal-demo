@@ -47,13 +47,13 @@ An enchanting, highly interactive, and responsive romantic proposal experience c
 
 ---
 
-## 🔑 Demo Passcode
+## Demo Passcode
 - **Passcode:** Check the hint on the lock screen (default hint: *a promise of forever 💍* — default answer: `forever`).
 - You can easily change this passcode in `script.js`.
 
 ---
 
-## 💌 How to Customize for Your Loved One / Clients
+## How to Customize for Your Loved One / Clients
 
 You can easily personalize this website in just 3 steps:
 
@@ -66,4 +66,4 @@ You can easily personalize this website in just 3 steps:
 
 ---
 
-*Crafted with ❤️ for memorable moments.*
+*Crafted with for memorable moments*
