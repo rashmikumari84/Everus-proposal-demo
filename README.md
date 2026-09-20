@@ -1,6 +1,6 @@
-# EverUs — Interactive Proposal Website Demo ❤️💍
+# EverUs — Interactive Proposal Website Demo❤️💍
 
-An enchanting, highly interactive, and responsive romantic proposal experience crafted with pure HTML5, CSS3, and modern JavaScript. Perfect for romantic surprises, anniversaries, proposals, and custom digital moments.
+An enchanting, highly interactive, and responsive romantic proposal experience crafted with pure HTML, CSS, and JavaScript. Perfect for romantic surprises, anniversaries, proposals, and custom digital moments.
 
 ---
 
@@ -20,9 +20,9 @@ An enchanting, highly interactive, and responsive romantic proposal experience c
 
 ## 🛠️ Built With
 
-- **HTML5** — Semantic structure
-- **CSS3** — Custom animations, Glassmorphism, Responsive Grid/Flexbox
-- **Vanilla JavaScript** — State management, Particle physics, Audio handling, Event interactions
+- **HTML** — Semantic structure
+- **CSS** — Custom animations, Glassmorphism, Responsive Grid/Flexbox
+- **JavaScript** — State management, Particle physics, Audio handling, Event interactions
 
 ---
 
